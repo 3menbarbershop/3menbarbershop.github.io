@@ -1,7 +1,7 @@
 # 3MEN BarberShop – Link-Seite
 
 Statische Link-Seite (Linktree-Ersatz) für 3MEN BarberShop, Eibacher Hauptstraße 94, 90451 Nürnberg.
-Gehostet kostenlos über GitHub Pages.
+Live: https://3menbarbershop.github.io/ (kostenlos über GitHub Pages).
 
 | Datei | Zweck |
 |---|---|
